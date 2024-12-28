@@ -18,8 +18,8 @@ def deactivate_assistant():
 
 def open_directory(name):
     directories = {
-        "whatsapp": r"C:\Users\Muhammad Mubashir\Desktop\automatic\run_whatsapp.bat",
-        "timer": r"C:\Users\Muhammad Mubashir\Desktop\automatic\timer.bat",
+        "whatsapp": r"C:\Users\Muhammad Mubashir\Documents\GitHub\automatic\run_whatsapp.bat",
+        "timer": r"C:\Users\Muhammad Mubashir\Documents\GitHub\automatic\timer.bat",
         # ...add more mappings as needed...
     }
     if name in directories:
